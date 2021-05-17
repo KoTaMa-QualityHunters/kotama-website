@@ -1,0 +1,33 @@
+body{
+  background-color: #5AA648;
+}
+
+.index-buttons a{
+  color: black;
+  padding:10px 40px 10px 40px;
+  text-decoration: none;
+  font-size: 50px;
+  border-radius: 100px;
+  background-color: white;
+  display: inline-block;
+  margin-bottom: 30px;
+}
+
+.textbox{
+  background-color: white;
+  width: 80%;
+  padding: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#maintitle{
+  text-align: center;
+  font-size: 50px;
+  padding: 20px 20px 0px 0px;
+}
+
+#maintext{
+  padding: 20px 20px 20px 20px;
+  font-size: 25px;
+}
